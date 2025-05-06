@@ -1,4 +1,0 @@
-// Testable.java
-public interface Testable {
-    void display(); // Implicitly public and abstract
-}

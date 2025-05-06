@@ -1,4 +1,0 @@
-// Interface for quacking behavior
-public interface Quackable {
-    void quack();
-}
